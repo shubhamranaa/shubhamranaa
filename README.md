@@ -1,4 +1,4 @@
-![logo](https://github.com/shubhamranaa/shubhamranaa/blob/main/GITHUB.png)
+<img src='https://github.com/shubhamranaa/shubhamranaa/blob/main/GITHUB.png' align="center" height="300" width="1200">
 <h1 align="center">Hi 👋, I'm Shubham Rana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img alt="coding" width="400" align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
